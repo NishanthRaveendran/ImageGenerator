@@ -13,7 +13,7 @@ This process is repeated, creating a more accurate image every generation.
 | ------------- |:-------------:| :--------: |
 | <img src="https://github.com/NishanthRaveendran/ImageGenerator/blob/master/escher.jpg" width="250" height="250"> | <img src="https://github.com/NishanthRaveendran/ImageGenerator/blob/master/eshergenerate.gif" width="250" height="250"> | <img src="https://github.com/NishanthRaveendran/ImageGenerator/blob/master/escherfinal.jpg" width="250" height="250"> |
 
-The population size and number of generations can be tweaked, where having a larger population and more generations provides better results. But for the sake of time, I used a population of 5000 and 100 generations to create this image.
+The population size and number of generations can be tweaked, where having a larger population and more generations takes longer to produce and provides better results.
 
 #### Key Concepts
 * Object Oriented Programming
