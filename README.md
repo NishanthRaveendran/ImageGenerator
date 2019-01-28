@@ -15,6 +15,6 @@ This process is repeated, creating a more accurate image every generation.
 
 The population size and number of generations can be tweaked, where having a larger population and more generations takes longer to produce and provides better results.
 
-#### Key Concepts
+#### Key Concepts Learned
 * Object Oriented Programming
 * Genetic Algorithm
