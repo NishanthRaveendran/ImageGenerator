@@ -1,5 +1,5 @@
 # ImageGenerator
-This program intakes an image, and then recreates that image using an iterative process with a genetic algorithm. (2S03 Principles of Programming Final Project)
+This program intakes an image, and then recreates that image using an iterative process with a genetic algorithm. This project was made in **C** for my *2S03 Principles of Programming Final Project*.
 
 ### How the algorithm works
 
